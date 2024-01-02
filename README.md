@@ -26,5 +26,4 @@ Contribute to the conversation by forking and cloning our repository. Your insig
 Join us in demystifying the movie rating landscape. Compare Fandango ratings with IMDb, Rotten Tomatoes User, and Metacritic to unearth the truth behind the numbers.
 
 # fandango_analysis
-# fandango_analysis
-# fandango_analysis
+
